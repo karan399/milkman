@@ -210,3 +210,4 @@ The application uses the following main tables:
 ## License
 
 This project is licensed under the MIT License.
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/karan399/milkman?utm_source=oss&utm_medium=github&utm_campaign=karan399%2Fmilkman&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
